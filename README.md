@@ -1,0 +1,2 @@
+# DataStructures-lab-571
+DATASTRUCTURES LAB DETAILS
